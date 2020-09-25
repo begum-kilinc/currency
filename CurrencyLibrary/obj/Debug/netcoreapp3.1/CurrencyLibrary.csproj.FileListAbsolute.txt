@@ -1,0 +1,9 @@
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\obj\Debug\netcoreapp3.1\CurrencyLibrary.csprojAssemblyReference.cache
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\obj\Debug\netcoreapp3.1\CurrencyLibrary.AssemblyInfoInputs.cache
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\obj\Debug\netcoreapp3.1\CurrencyLibrary.AssemblyInfo.cs
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\obj\Debug\netcoreapp3.1\CurrencyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\bin\Debug\netcoreapp3.1\CurrencyLibrary.deps.json
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\bin\Debug\netcoreapp3.1\CurrencyLibrary.dll
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\bin\Debug\netcoreapp3.1\CurrencyLibrary.pdb
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\obj\Debug\netcoreapp3.1\CurrencyLibrary.dll
+C:\Users\BEGÜM\source\repos\CurrencyNuevo\CurrencyLibrary\obj\Debug\netcoreapp3.1\CurrencyLibrary.pdb
